@@ -10,6 +10,16 @@ This project consists of two main components:
 
 The application allows users to upload and edit photos using AI-powered features, with a modern and intuitive user interface.
 
+## Screenshots
+
+### Main Interface
+### AI Editing Features
+![AI Editing](screenshots/ai-editing.png)
+*AI-powered editing features in action*
+
+### Results Preview
+![Results](screenshots/results.png)
+*Preview of the edited photos with AI enhancements*
 
 ## Tech Stack
 
