@@ -10,17 +10,6 @@ This project consists of two main components:
 
 The application allows users to upload and edit photos using AI-powered features, with a modern and intuitive user interface.
 
-## Screenshots
-
-### Main Interface
-### AI Editing Features
-![AI Editing](screenshots/ai-editing.png)
-*AI-powered editing features in action*
-
-### Results Preview
-![Results](screenshots/results.png)
-*Preview of the edited photos with AI enhancements*
-
 ## Tech Stack
 
 ### Frontend (Client)
@@ -103,6 +92,17 @@ The application will be available at:
 - `npm run test` - Run unit tests
 - `npm run test:e2e` - Run end-to-end tests
 - `npm run build` - Build for production
+
+## Screenshots
+
+### Main Interface
+### AI Editing Features
+![image](https://github.com/user-attachments/assets/54f49b52-42de-4e4e-b5be-9b878afedf71)
+*AI-powered editing features in action*
+
+### Results Preview
+![image](https://github.com/user-attachments/assets/75072d13-2bf5-40de-ac80-c0d565d4a5f6)
+*Preview of the edited photos with AI enhancements*
 
 ## Project Structure
 
